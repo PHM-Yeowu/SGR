@@ -1,0 +1,20 @@
+{
+ "pde": "advection",
+ "method": "vanilla",
+ "seed": 0,
+ "iters": 30000,
+ "coef": 1.0,
+ "pre_L2": 0.0011863079853355885,
+ "post_L2": 0.00020498488447628915,
+ "floor_test": 3.507399692546179e-05,
+ "lam_hat": 1104.1634228134794,
+ "valley_contrast": 2.861790829925553,
+ "leakage": 0.05320469675963594,
+ "wall_time_s": 167.1169044971466,
+ "n_r": 4096,
+ "n_ic": 256,
+ "n_bc": 256,
+ "peak_lambda": 1.0,
+ "final_lam_ic": 1.0,
+ "final_lam_bc": 1.0
+}

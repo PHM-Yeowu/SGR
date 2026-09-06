@@ -1,0 +1,20 @@
+{
+ "pde": "allen_cahn",
+ "method": "vanilla",
+ "seed": 0,
+ "iters": 30000,
+ "coef": 0.0001,
+ "pre_L2": 0.0011079810792580247,
+ "post_L2": 2.667843182280194e-05,
+ "floor_test": 2.7274928433622905e-06,
+ "lam_hat": 3.12017660542344,
+ "valley_contrast": 7.1784187469536676,
+ "leakage": 0.0034725028891036125,
+ "wall_time_s": 321.51361441612244,
+ "n_r": 4096,
+ "n_ic": 256,
+ "n_bc": 256,
+ "peak_lambda": 1.0,
+ "final_lam_ic": 1.0,
+ "final_lam_bc": 1.0
+}

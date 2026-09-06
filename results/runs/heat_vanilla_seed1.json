@@ -1,0 +1,20 @@
+{
+ "pde": "heat",
+ "method": "vanilla",
+ "seed": 1,
+ "iters": 30000,
+ "coef": 0.1,
+ "pre_L2": 0.0038801676128059626,
+ "post_L2": 2.2673419152852148e-05,
+ "floor_test": 6.211837778313303e-06,
+ "lam_hat": 218.78908713070027,
+ "valley_contrast": 2.1989826368170022,
+ "leakage": 0.07050731187216662,
+ "wall_time_s": 199.20312213897705,
+ "n_r": 4096,
+ "n_ic": 256,
+ "n_bc": 256,
+ "peak_lambda": 1.0,
+ "final_lam_ic": 1.0,
+ "final_lam_bc": 1.0
+}

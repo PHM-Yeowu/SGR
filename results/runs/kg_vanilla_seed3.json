@@ -1,0 +1,20 @@
+{
+ "pde": "kg",
+ "method": "vanilla",
+ "seed": 3,
+ "iters": 30000,
+ "coef": 1.0,
+ "pre_L2": 0.05126719921827316,
+ "post_L2": 0.0004724905884359032,
+ "floor_test": 1.8690579054599733e-05,
+ "lam_hat": 823129.4367752766,
+ "valley_contrast": 5.146503314703144,
+ "leakage": 0.006033701960423628,
+ "wall_time_s": 384.93263840675354,
+ "n_r": 4096,
+ "n_ic": 256,
+ "n_bc": 256,
+ "peak_lambda": 1.0,
+ "final_lam_ic": 1.0,
+ "final_lam_bc": 1.0
+}

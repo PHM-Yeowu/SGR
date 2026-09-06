@@ -1,0 +1,20 @@
+{
+ "pde": "convection_diffusion",
+ "method": "ntk_trace",
+ "seed": 3,
+ "iters": 30000,
+ "coef": 1.5,
+ "pre_L2": 0.0008845028351061046,
+ "post_L2": 9.636591130401939e-05,
+ "floor_test": 2.7603236205197704e-05,
+ "lam_hat": 3060.9853866191334,
+ "valley_contrast": 5.586777292999384,
+ "leakage": 0.01362050235080594,
+ "wall_time_s": 523.4111573696136,
+ "n_r": 4096,
+ "n_ic": 256,
+ "n_bc": 256,
+ "peak_lambda": 92.0986701875293,
+ "final_lam_ic": 55.42257217847768,
+ "final_lam_bc": 44.736329878277935
+}

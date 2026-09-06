@@ -1,0 +1,20 @@
+{
+ "pde": "helmholtz",
+ "method": "vanilla",
+ "seed": 1,
+ "iters": 30000,
+ "coef": 4.0,
+ "pre_L2": 0.04218662902712822,
+ "post_L2": 0.00019445759244263172,
+ "floor_test": 5.842444006280236e-05,
+ "lam_hat": 283761.13946800685,
+ "valley_contrast": 4.2912914860424625,
+ "leakage": 0.0024919963123145963,
+ "wall_time_s": 486.55728793144226,
+ "n_r": 4096,
+ "n_ic": 256,
+ "n_bc": 256,
+ "peak_lambda": 1.0,
+ "final_lam_ic": 1.0,
+ "final_lam_bc": 1.0
+}

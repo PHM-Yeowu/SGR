@@ -1,0 +1,20 @@
+{
+ "pde": "convection_diffusion",
+ "method": "vanilla",
+ "seed": 1,
+ "iters": 30000,
+ "coef": 1.5,
+ "pre_L2": 0.006022867280989885,
+ "post_L2": 0.00010206184379057959,
+ "floor_test": 1.8132935837235422e-05,
+ "lam_hat": 1535.0646811638169,
+ "valley_contrast": 3.4829929714164662,
+ "leakage": 0.026592208566630752,
+ "wall_time_s": 449.36500692367554,
+ "n_r": 4096,
+ "n_ic": 256,
+ "n_bc": 256,
+ "peak_lambda": 1.0,
+ "final_lam_ic": 1.0,
+ "final_lam_bc": 1.0
+}
